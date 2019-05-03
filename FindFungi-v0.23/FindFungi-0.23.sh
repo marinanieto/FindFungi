@@ -19,8 +19,8 @@ z=$2
 
 
 ##### USER INPUT REQUIRED:
-ScriptPath=/home/user/scripts  #Location of downloaded python and shell scripts
-PreDir=/home/user/Some_Directory/$z  #Location you want FindFungi to build the analysis
+ScriptPath=/home/mani4567/FungiHK/FindFungi/FindFungi-v0.23.3  #Location of downloaded python and shell scripts
+PreDir=/home/mani4567/FungiHK/FindFungi/FindFungi-v0.23.3/$z  #Location you want FindFungi to build the analysis
 KrakenDir=/home/user/Location_of_Kraken_Databases  #Location of the 32 downloaded Kraken databases
 FungTaxDir=/home/user/Location_of_Fungal-Taxids.txt  #Location of the Fungal taxids and PipelineSummary files from GitHub
 BLAST_DB_Dir=/home/user/Location_of_BLAST_Databases  #Location of the 949 downloaded BLAST databases
